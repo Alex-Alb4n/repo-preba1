@@ -12,7 +12,8 @@ def permiso(edad):
         return "Eres aun menor de edad, por lo que aun no vas a poder conducir"
 
 
-print(permiso(18))
+print(permiso(15))
 print("Que tengas un exelente dia y recuerda practicar mucho para lograr tus objetivos")
 print( "mostrando el six sevent de mikel arteta")
 print("este es mi año por que haci me lo creo yo")
+
