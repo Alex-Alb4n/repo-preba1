@@ -20,3 +20,5 @@ print("este es mi año por que haci me lo creo yo")
 print("git hello good bey")
 sum = 4 /2
 print(sum)
+pepe = "papa"
+print(pepe)
