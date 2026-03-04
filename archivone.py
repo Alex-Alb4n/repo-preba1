@@ -18,4 +18,5 @@ print( "mostrando el six sevent de mikel arteta")
 print("este es mi año por que haci me lo creo yo")
 #esto lo vere usando el comando git fetch
 print("git hello good bey")
-
+sum = 4 /2
+print(sum)
