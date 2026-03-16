@@ -23,4 +23,9 @@ print(sum)
 pepe = "papa"
 print(pepe)
 #che agrega algo mas bonito pibe porfa si
+#agrege un nuevo print desde el repositorio remoto para hacer un conflicto 
+print("vamos mejorando esto pibe si porfa este mensaje se eliminara cuando leas esto")
+#Esto debe ir primero antes que el commit que voy hacer desde mi repositorio local
+print("esto debe quedar a lo ultimo para ver si hago un pequeño conflicto con este pequeño comentario en python")
+
 
